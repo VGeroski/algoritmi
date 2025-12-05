@@ -69,13 +69,13 @@ int main()
     s.add_to_top(4);
     s.add_to_top(2);
 
-    std::cout << "Elementi: ";
+    std::cout << "Elements: ";
     s.print_stack();
     std::cout << std::endl;
 
     std::cout << "Top element: " << s.take_from_top() << std::endl;
 
-    std::cout << "Elementi: ";
+    std::cout << "Elements: ";
     s.print_stack();
     std::cout << std::endl;
 
