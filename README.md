@@ -15,3 +15,6 @@
  - deljiv u intervalu
  - najduza serija pobeda
  - rastuci segmenti (preko formule)
+
+## Neke implementacije strukture podataka
+ - Stek (sa dve osnovne operacije)
